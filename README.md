@@ -1,5 +1,4 @@
-# Lesson 1.1: Introduction and Class Registration
-
+# Lesson 1.1: Welcome to Code Nation
 ### 🎯 Objectives
 - Understand the purpose and mission of Code Nation.
 - Get to know the class norms and why they are essential.
